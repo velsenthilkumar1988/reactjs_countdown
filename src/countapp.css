@@ -1,0 +1,16 @@
+.counter-sec {
+    height: 100vh;
+    background: var(--light-blue);
+    .counter{
+        background: repeating-linear-gradient(rgb(40, 143, 238),rgb(238, 238, 156),rgb(225, 179, 94));
+        min-width: 450px;
+        padding: 2rem;
+  
+        .count{
+          width: 4rem;
+          height: 4rem;
+          border: 2px solid #fff;
+          border-radius: 50%;
+        }
+    }
+  }
