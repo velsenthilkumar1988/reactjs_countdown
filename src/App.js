@@ -1,3 +1,4 @@
+//small change for commit
 import './App.css';
 import './App.scss';
 import { useState } from 'react';
